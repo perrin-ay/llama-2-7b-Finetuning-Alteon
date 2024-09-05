@@ -19,12 +19,8 @@ Training Dataset : https://huggingface.co/datasets/bridge4/Alteoncmdsdataset
 
 ### Training Dataset
 
-<iframe
-  src="https://huggingface.co/datasets/bridge4/Alteoncmdsdataset/embed/viewer/default/train?row=0"
-  frameborder="0"
-  width="100%"
-  height="560px"
-></iframe>
+![image](https://github.com/user-attachments/assets/dfec7eb4-2877-4dfe-beb3-f09857856e3f)
+
 
 
  
